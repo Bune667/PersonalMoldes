@@ -1,0 +1,7 @@
+{
+  "version": "1.0",
+  "updateTag": "v1.0",
+  "assets_url": "https://example.com/personal-moldes-assets-v1.0.zip",
+  "description": "Manifesto de atualização do PersonalMOLDES.",
+  "channel": "stable"
+}
